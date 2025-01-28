@@ -3,12 +3,26 @@ this is cheats for Galaxy Idle Clicker
 
 ## FAQ
 
-#### How do i use?
+## 🛠️ Installation & Usage
 
-Answer: copy the [Cheat Code](https://github.com/official-notfishvr/Galaxy-Idle-Clicker-Cheats/raw/refs/heads/main/Edit%20User%20Data_cmd.js) \
-then go to steam then Properties then past in "GalaxyIdleClicker.exe --remote-allow-origins=* --remote-debugging-port=1234" where it says Launch Options \
-then open the game \
-then go to "localhost:1234" then click where it says "Galaxy Idle Clicker" \
-then open dev tools then go to Console \
-then past in the [Cheat Code](https://github.com/official-notfishvr/Galaxy-Idle-Clicker-Cheats/raw/refs/heads/main/Edit%20User%20Data_cmd.js) \
-then you do a cmd \
+### Step 1: Enable Remote Debugging
+1. Open Steam, right-click **Galaxy Idle Clicker** in your library.
+2. Select **Properties** > **General** > **Launch Options**.
+3. Paste this command:
+   ```bat
+   GalaxyIdleClicker.exe --remote-allow-origins=* --remote-debugging-port=1234
+   ```
+4. Launch the game.
+
+### Step 2: Access Debug Interface
+1. Open Chrome/Firefox and visit:
+   ```url
+   http://localhost:1234
+   ```
+2. Click the **Galaxy Idle Clicker** debug target.
+
+### Step 3: Execute Cheat Script
+1. Open Developer Tools (`F12` or `Ctrl+Shift+I`).
+2. Navigate to the **Console** tab.
+3. Paste the contents of [Edit User Data_cmd.js](https://raw.githubusercontent.com/official-notfishvr/Galaxy-Idle-Clicker-Cheats/main/Edit%20User%20Data_cmd.js) into the console.
+4. Press `Enter` to execute.
