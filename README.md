@@ -60,11 +60,11 @@ Meaning any commande will be effective only AFTER REBOOT OF THE GAME. and you NE
 
 ## 🛠️ USEFULL INFORMATION
 
-So, basicly this script allow you to see the save clearly, and the dev of the game have named it's variable in a strait forward way. so you can use any command to see the save log.
-
-![image](https://github.com/user-attachments/assets/38c51aee-8232-4b22-bc25-7d194e4e5a95) 
-
-click on copy and save it as a txt file anywhere you want. Like that you can search for any variable you would want to modify easily with Notepad++ ( or any text editor )
+So, basicly this script allow you to see the save clearly, and the dev of the game have named it's variable in a strait forward way. so you can use this cmd to get the save log.
+```bat
+cmd("DownloadUserData")
+```
+save anywhere you want. Like that you can search for any variable you would want to modify easily with Notepad++ ( or any text editor )
 
 ### Some usefull command
 
