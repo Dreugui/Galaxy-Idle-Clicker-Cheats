@@ -5,14 +5,7 @@ this is a cheats for Galaxy Idle Clicker
 ---
 
 ## ⚠️ Disclaimer
-This is a fork of the project of official-notfishvr here : https://github.com/official-notfishvr/Galaxy-Idle-Clicker-Cheats.
-
 This game have an OnLine features ( leaderboard ). I advise to put a rule in your firewall to block access to internet to avoid any issue.
-
-I did not modiffy the script, I just added a tutorial to use it more easily.
-
-This script work as a save edit.
-
 ---
 
 ## 🛠️ Installation & Usage
