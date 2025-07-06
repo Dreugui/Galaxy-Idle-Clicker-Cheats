@@ -29,7 +29,7 @@ This game have an OnLine features ( leaderboard ). I advise to put a rule in you
 ### Step 3: Execute Cheat Script
 1. Normaly the devlopper tab is allready open on the right.
 2. Navigate to the **Console** tab. ( if it isnt allready on it by default )
-3. Paste the contents of [Edit User Data_cmd.js](https://raw.githubusercontent.com/Dreugui/Galaxy-Idle-Clicker-Cheats/refs/heads/main/Edit%20User%20Data_cmd.js) into the console.
+3. Paste the contents of [Edit User Data_cmd.js](https://raw.githubusercontent.com/official-notfishvr/Galaxy-Idle-Clicker-Cheats/refs/heads/main/Edit%20User%20Data_cmd.js) into the console.
 4. Press `Enter` to execute.
 
 ---
